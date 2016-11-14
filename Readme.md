@@ -1,4 +1,4 @@
-# Presentation for Grosse Publizistische Konferenz
+# Presentation for Publizistische Konferenz
 Datetime: 2016-12-01 16:15 – 2016-12-01 16:45 <br />
 Location: Werdstrasse 21, 8004 Zürich, Presseclub, 6. Stock, 47.37269, 8.53096 <br />
 Presenter: Barnaby Skinner, Mathias Born, Paul Ronga <br />
