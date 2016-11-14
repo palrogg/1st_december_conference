@@ -1,7 +1,7 @@
 # Presentation for Grosse Publizistische Konferenz
-Datetime: 2016-12-01 16:15 – 2016-12-01 16:45__
-Location: Werdstrasse 21, 8004 Zürich, Presseclub, 6. Stock, 47.37269, 8.53096__
-Presenter: Barnaby Skinner, Mathias Born, Paul Ronga__
+Datetime: 2016-12-01 16:15 – 2016-12-01 16:45 <br />
+Location: Werdstrasse 21, 8004 Zürich, Presseclub, 6. Stock, 47.37269, 8.53096 <br />
+Presenter: Barnaby Skinner, Mathias Born, Paul Ronga <br />
 
 ## Introduction Lede 12 (3 min.)
 Each of us presents himself and gives a statement about why Lede was a valuable experience.__
