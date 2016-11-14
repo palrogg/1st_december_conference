@@ -21,7 +21,7 @@ Intro (Paul Ronga, 1 min.)<br />
 ## Using data for story-telling (7 min.)
 Intro (Mathias Born, 1 min.)<br />
 07 Static visuals (Mathias Born, 2 min.)<br />
-08 Basis of a research (Barnaby Skinner, 2 min.)<br />
+08 Basis of an investigation (Barnaby Skinner, 2 min.)<br />
 09 Interactive visuals with D3.js: the singles! (Paul Ronga, 2 min.)
 
 ## Examples (7 min.)
