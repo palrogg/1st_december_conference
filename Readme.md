@@ -1,15 +1,15 @@
 # Presentation for Grosse Publizistische Konferenz
-Datetime: 2016-12-01 16:15 – 2016-12-01 16:45
-Location: Werdstrasse 21, 8004 Zürich, Presseclub, 6. Stock, 47.37269, 8.53096
-Presenter: Barnaby Skinner, Mathias Born, Paul Ronga
+Datetime: 2016-12-01 16:15 – 2016-12-01 16:45__
+Location: Werdstrasse 21, 8004 Zürich, Presseclub, 6. Stock, 47.37269, 8.53096__
+Presenter: Barnaby Skinner, Mathias Born, Paul Ronga__
 
 ## Introduction Lede 12 (3 min.)
-Each of us presents himself and gives a statement about why Lede was a valuable experience.
+Each of us presents himself and gives a statement about why Lede was a valuable experience.__
 
 ## Collecting data (7 min.)
-Intro (Barnaby Skinner, 1 min.)
-Structured data from site e.g. BFS, etc. (Barnaby Skinner, 2 min.)
-Scraping (Mathias Born, 2 min.)
+Intro (Barnaby Skinner, 1 min.)__
+Structured data from site e.g. BFS, etc. (Barnaby Skinner, 2 min.)__
+Scraping (Mathias Born, 2 min.)__
 Even more structured: APIs (perfectly structured data) (Paul Ronga, 2 min.)
 
 ## Analysing data (7 min.)
