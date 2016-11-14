@@ -8,27 +8,27 @@ Each of us presents himself and gives a statement about why Lede was a valuable 
 
 ## Collecting data (7 min.)
 Intro (Barnaby Skinner, 1 min.)<br />
-Structured data from site e.g. BFS, etc. (Barnaby Skinner, 2 min.)<br />
-Scraping (Mathias Born, 2 min.)<br />
-Even more structured: APIs (perfectly structured data) (Paul Ronga, 2 min.)
+01 Structured data from site e.g. Parlament.ch, BFS, etc. (Barnaby Skinner, 2 min.)<br />
+02 Scraping (Mathias Born, 2 min.)<br />
+03 Even more structured: APIs (perfectly structured data) (Paul Ronga, 2 min.)
 
 ## Analysing data (7 min.)
 Intro (Paul Ronga, 1 min.)<br />
-Python & Regex for unstructured data (Mathias Born, 2 min.)<br />
-Pandas for structured data (Barnaby Skinner, 2 min.)<br />
-Working with APIs and live data (Paul Ronga, 2 min.)
+04 Python & Regex for unstructured data (Mathias Born, 2 min.)<br />
+05 Pandas for structured data (Barnaby Skinner, 2 min.)<br />
+06 Working with APIs and live data (Paul Ronga, 2 min.)
 
 ## Using data for story-telling (7 min.)
 Intro (Mathias Born, 1 min.)<br />
-Static visuals (Mathias Born, 2 min.)<br />
-Basis of a research (Barnaby Skinner, 2 min.)<br />
-Interactive visuals with D3.js: the singles! (Paul Ronga, 2 min.)
+07 Static visuals (Mathias Born, 2 min.)<br />
+08 Basis of a research (Barnaby Skinner, 2 min.)<br />
+09 Interactive visuals with D3.js: the singles! (Paul Ronga, 2 min.)
 
 ## Examples (7 min.)
-Into (Barnaby Sinner, 1 Min)<br />
+Intro (Barnaby Sinner, 1 Min)<br />
 How do we apply these technical skills? In this part each of us will showcase
 one project in a very short way (2 minutes each). We can explain them further
 during the break or during the meal after the conference.
-Footballer or Stadtrat (Mathias Born, 2 min.)<br />
-Course de l’Escalade (or propriete.tdg.ch) (Paul Ronga, 2 min.)<br />
-Asylentscheide (Barnaby Skinner, 2 min.)
+10 Footballer or Stadtrat (Mathias Born, 2 min.)<br />
+11 Course de l’Escalade (or propriete.tdg.ch) (Paul Ronga, 2 min.)<br />
+12 Asylentscheide (Barnaby Skinner, 2 min.)
