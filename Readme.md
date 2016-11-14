@@ -26,9 +26,6 @@ Intro (Mathias Born, 1 min.)<br />
 
 ## Examples (7 min.)
 Intro (Barnaby Sinner, 1 Min)<br />
-How do we apply these technical skills? In this part each of us will showcase
-one project in a very short way (2 minutes each). We can explain them further
-during the break or during the meal after the conference.
 10 Footballer or Stadtrat (Mathias Born, 2 min.)<br />
 11 Course de l’Escalade (or propriete.tdg.ch) (Paul Ronga, 2 min.)<br />
 12 Asylentscheide (Barnaby Skinner, 2 min.)
