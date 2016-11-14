@@ -4,31 +4,31 @@ Location: Werdstrasse 21, 8004 Zürich, Presseclub, 6. Stock, 47.37269, 8.53096 
 Presenter: Barnaby Skinner, Mathias Born, Paul Ronga <br />
 
 ## Introduction Lede 12 (3 min.)
-Each of us presents himself and gives a statement about why Lede was a valuable experience.__
+Each of us presents himself and gives a statement about why Lede was a valuable experience. <br />
 
 ## Collecting data (7 min.)
-Intro (Barnaby Skinner, 1 min.)__
-Structured data from site e.g. BFS, etc. (Barnaby Skinner, 2 min.)__
-Scraping (Mathias Born, 2 min.)__
+Intro (Barnaby Skinner, 1 min.)<br />
+Structured data from site e.g. BFS, etc. (Barnaby Skinner, 2 min.)<br />
+Scraping (Mathias Born, 2 min.)<br />
 Even more structured: APIs (perfectly structured data) (Paul Ronga, 2 min.)
 
 ## Analysing data (7 min.)
-Intro (Paul Ronga, 1 min.)
-Python & Regex for unstructured data (Mathias Born, 2 min.)
-Pandas for structured data (Barnaby Skinner, 2 min.)
+Intro (Paul Ronga, 1 min.)<br />
+Python & Regex for unstructured data (Mathias Born, 2 min.)<br />
+Pandas for structured data (Barnaby Skinner, 2 min.)<br />
 Working with APIs and live data (Paul Ronga, 2 min.)
 
 ## Using data for story-telling (7 min.)
-Intro (Mathias Born, 1 min.)
-Static visuals (Mathias Born, 2 min.)
-Basis of a research (Barnaby Skinner, 2 min.)
+Intro (Mathias Born, 1 min.)<br />
+Static visuals (Mathias Born, 2 min.)<br />
+Basis of a research (Barnaby Skinner, 2 min.)<br />
 Interactive visuals with D3.js: the singles! (Paul Ronga, 2 min.)
 
 ## Examples (7 min.)
-Into (Barnaby Sinner, 1 Min)
+Into (Barnaby Sinner, 1 Min)<br />
 How do we apply these technical skills? In this part each of us will showcase
 one project in a very short way (2 minutes each). We can explain them further
 during the break or during the meal after the conference.
-Footballer or Stadtrat (Mathias Born, 2 min.)
-Course de l’Escalade (or propriete.tdg.ch) (Paul Ronga, 2 min.)
+Footballer or Stadtrat (Mathias Born, 2 min.)<br />
+Course de l’Escalade (or propriete.tdg.ch) (Paul Ronga, 2 min.)<br />
 Asylentscheide (Barnaby Skinner, 2 min.)
