@@ -10,13 +10,13 @@ Each of us presents himself and gives a statement about why Lede was a valuable 
 Intro (Barnaby Skinner, 1 min.)<br />
 01 Structured data from site e.g. Parlament.ch, BFS, etc. (Barnaby Skinner, 2 min.)<br />
 02 Scraping (Mathias Born, 2 min.)<br />
-03 Even more structured: APIs (perfectly structured data) (Paul Ronga, 2 min.)
+03 [Even more structured: APIs (perfectly structured data)](https://github.com/palrogg/1st_december_conference/blob/master/TPG_get_current_disruptions.ipynb) (Paul Ronga, 2 min.)
 
 ## Analysing data (7 min.)
 Intro (Paul Ronga, 1 min.)<br />
 04 Python & Regex for unstructured data (Mathias Born, 2 min.)<br />
 05 Pandas for structured data (Barnaby Skinner, 2 min.)<br />
-06 Working with APIs and live data (Paul Ronga, 2 min.)
+06 [Working with APIs and live data](https://github.com/palrogg/1st_december_conference/blob/master/Wikipedia_API/Wikipedia%20API%20Geneva.ipynb) (Paul Ronga, 2 min.)
 
 ## Using data for story-telling (7 min.)
 Intro (Mathias Born, 1 min.)<br />
