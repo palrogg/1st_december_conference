@@ -22,10 +22,10 @@ Intro (Paul Ronga, 1 min.)<br />
 Intro (Mathias Born, 1 min.)<br />
 07 Static visuals (Mathias Born, 2 min.)<br />
 08 Basis of an investigation (Barnaby Skinner, 2 min.)<br />
-09 [Interactive visuals with D3.js: the singles](http://ww2.paulronga.ch/singles2/) (Paul Ronga, 2 min.)
+09 [Interactive map with Google](http://propriete.tdg.ch/chapitre3.html) (Paul Ronga, 2 min.)
 
 ## Examples (7 min.)
 Intro (Barnaby Sinner, 1 Min)<br />
 10 Footballer or Stadtrat (Mathias Born, 2 min.)<br />
-11 [Course de l’Escalade](http://escalade.tdg.ch) (Paul Ronga, 2 min.)<br />
+11 [Interactive visuals with D3.js: La Course de l’Escalade](http://escalade.tdg.ch) (Paul Ronga, 2 min.)<br />
 12 Asylentscheide (Barnaby Skinner, 2 min.)
