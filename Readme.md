@@ -22,7 +22,7 @@ Intro (Paul Ronga, 1 min.)<br />
 Intro (Mathias Born, 1 min.)<br />
 07 Static visuals (Mathias Born, 2 min.)<br />
 08 Basis of an investigation (Barnaby Skinner, 2 min.)<br />
-09 [Interactive map with Google](http://propriete.tdg.ch/chapitre3.html) (Paul Ronga, 2 min.)
+09 [Simple interactive map](http://propriete.tdg.ch/chapitre3.html) (Paul Ronga, 2 min.)
 
 ## Examples (7 min.)
 Intro (Barnaby Sinner, 1 Min)<br />
